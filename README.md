@@ -8,6 +8,12 @@ By combining emotion analysis with intelligent task prioritization, the system h
       https://drive.google.com/drive/folders/1HUsj8wtO9cyOZb3akl2ilCr5BGRageDc?gad_source=1&gad_campaignid=23198035368&gbraid=0AAAABB4biwptoqK5BULvr6ipNUOaimcgw&gclid=CjwKCAiAwqHIBhAEEiwAx9cTedRiS2XR7oww274hCTNCI07LyJVQp5tPRzGzraVVP91R7MPm0DZxOBoClOAQAvD_BwE
   ```
 
+## Interaction logs: the prompts used and the chat history with the AI.
+
+  ```sh
+    https://chatgpt.com/c/68ff8b1c-a8a8-8323-9d18-341a1213caac
+  ```
+
 ## Features
 
 - **Emotion Check-In** : Describe how you feel, and the system detects your mood using emotion classification.
