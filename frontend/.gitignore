@@ -1,0 +1,25 @@
+cat > .gitignore << 'EOF'
+# FRONTEND
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/package-lock.json
+
+# BACKEND
+backend/.venv/
+backend/venv/
+backend/env/
+backend/__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+backend/credentials.json
+*.env
+*secret*.json
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+EOF

@@ -1,0 +1,14 @@
+streamlit
+transformers
+torch
+streamlit-calendar
+faiss-cpu
+llama-index
+openai
+celery[redis]
+redis
+sqlalchemy
+psycopg2-binary   # if using Postgres
+requests
+python-dateutil
+ics
